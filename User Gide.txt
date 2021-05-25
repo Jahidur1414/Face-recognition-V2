@@ -1,0 +1,24 @@
+***************** First you need to Run Those Command In anaconda command prompt **********************
+
+Now create a OpenCV environment. For This thing run those command
+
+1) -> conda create --name opencv-env python
+
+2) -> conda activate opencv-env
+
+3) -> pip install numpy scipy matplotlib scikit-learn
+
+4) -> pip install opencv-contrib-python
+
+5) -> conda install -c conda-forge dlib
+
+***************** First you nned to change the directory into this project folder **********************
+
+Now you need to install all requirements module
+
+--- > pip install -r requirements.txt
+
+
+2) Then run the main.py file
+
+--- > python main.py
